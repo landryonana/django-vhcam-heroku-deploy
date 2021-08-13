@@ -114,14 +114,13 @@ WSGI_APPLICATION = 'vhproject2021.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql_psycopg2',
-        'NAME': 'd41vuilp6shr4s',
-        'USER': 'ieiosgipeemlvw',
-        'PASSWORD': '95ccf50b9f8d35194f8b67d979aa16b3cbd95f017d0806c2296cca4c3449256a',
-        'HOST': 'ec2-52-209-171-51.eu-west-1.compute.amazonaws.com',
+        'NAME': 'd7u38k4j18ij26',
+        'USER': 'zamuqiqaxyaxmb',
+        'PASSWORD': '7b48e262a6c582dd88b2e3371fbe31e13a600c18d22443f71a732c93cdad480e',
+        'HOST': 'ec2-34-194-130-103.compute-1.amazonaws.com',
         'POST': '5432',
     }
 }
-
 
 # Password validation
 # https://docs.djangoproject.com/en/2.2/ref/settings/#auth-password-validators
